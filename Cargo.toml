@@ -5,7 +5,7 @@ authors = ["nukeop <nukeop@gumblert.tech>"]
 description = "Check if your code is running on Travis CI"
 repository = "https://github.com/nukeop/is-travis"
 readme="README.md"
-keywords = ["travis", "ci", "detect", "env", "environment", "testing"]
+keywords = ["travis", "ci", "detect", "env", "environment"]
 license = "MIT"
 
 [dependencies]
