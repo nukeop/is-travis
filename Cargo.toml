@@ -1,0 +1,11 @@
+[package]
+name = "is-travis"
+version = "1.0.0"
+authors = ["nukeop <nukeop@gumblert.tech>"]
+description = "Check if your code is running on Travis CI"
+repository = "https://github.com/nukeop/is-travis"
+readme="README.md"
+keywords = ["travis", "ci", "detect", "env", "environment", "testing"]
+license = "MIT"
+
+[dependencies]
